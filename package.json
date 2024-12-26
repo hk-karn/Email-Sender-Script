@@ -14,7 +14,7 @@
         "excel",
         "automation"
     ],
-    "author": "Vaibhav Mishra",
+    "author": "Harsh Kumar",
     "license": "MIT",
     "dependencies": {
         "dotenv": "^16.4.7",
