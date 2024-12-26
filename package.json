@@ -1,0 +1,28 @@
+{
+    "name": "email-sender",
+    "version": "1.0.0",
+    "description": "A Node.js application to send emails from data stored in an Excel sheet.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "lint": "eslint ."
+    },
+    "keywords": [
+        "email",
+        "nodemailer",
+        "xlsx",
+        "excel",
+        "automation"
+    ],
+    "author": "Vaibhav Mishra",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.4.7",
+        "fs": "^0.0.1-security",
+        "nodemailer": "^6.9.16",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "eslint": "^8.50.0"
+    }
+}
